@@ -1,6 +1,6 @@
 PROBLEMA: calcolare il prezzo totale del viaggio in treno; facendo attenzione all'età del passeggero, km percorsi e alle relative scontistiche applicate in base all'età.
 
-    1-Permettere all'utente di inserire il numero di km che vuole percorrere
+    1-Permettere all'utente di inserire il numero di km che vuole percorrere moltiplicarci 0.21 euro
     2-Permettere all'utente di inserire l'età
     3-SE l'età del passeggero è compresa tra 18 e 65
         allora calcolo il prezzo del biglietto e lo stampo in console.log
